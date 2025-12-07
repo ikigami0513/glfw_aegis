@@ -1,0 +1,5 @@
+namespace Glfw {
+    func init {
+        glfw_init()
+    }
+}
