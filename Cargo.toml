@@ -7,6 +7,6 @@ edition = "2024"
 crate-type = ["cdylib"]
 
 [dependencies]
-aegis-lang = "0.3.3"
+aegis-lang = "0.4.0"
 glfw = "0.56"
 lazy_static = "1.4"
